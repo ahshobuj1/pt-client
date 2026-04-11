@@ -1,6 +1,6 @@
 # Online Assessment Platform
 
-[![Live Demo]](https://assesment-client-fawn.vercel.app) [![Video Walkthrough]](<Video Recording Link>)
+Live Demo(https://assesment-client-fawn.vercel.app) [![Video Walkthrough]](<Video Recording Link>)
 
 *Please replace `<Live Demo Link>` and `<Video Recording Link>` with the actual URLs.*
 
